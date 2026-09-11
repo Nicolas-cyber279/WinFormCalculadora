@@ -50,15 +50,25 @@ Para executar o projeto, é necessário possuir:
 ## 📁 Estrutura do projeto
 
 WinFormCalculadora/
+
 ├── Properties/
+
 ├── images/
+
 ├── App.config
+
 ├── Form1.cs
+
 ├── Form1.Designer.cs
+
 ├── Form1.resx
+
 ├── Program.cs
+
 ├── WinFormCalculadora.csproj
+
 └── WinFormCalculadora.sln
+
 
 ## 📌 Status
 
