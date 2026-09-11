@@ -52,21 +52,13 @@ Para executar o projeto, é necessário possuir:
 WinFormCalculadora/
 
 ├── Properties/
-
 ├── images/
-
 ├── App.config
-
 ├── Form1.cs
-
 ├── Form1.Designer.cs
-
 ├── Form1.resx
-
 ├── Program.cs
-
 ├── WinFormCalculadora.csproj
-
 └── WinFormCalculadora.sln
 
 
